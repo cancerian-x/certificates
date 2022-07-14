@@ -5,7 +5,7 @@
 
 ## 2. SoloLearn Programming Languages
 
-1. [1. C#](https://drive.google.com/file/d/1SegJbo3gCIdNdZveKOlJaXT_8YyaSIYK/view?usp=sharing)
+1. [C#](https://drive.google.com/file/d/1SegJbo3gCIdNdZveKOlJaXT_8YyaSIYK/view?usp=sharing)
 2. [ C++](https://drive.google.com/file/d/1acbaoSQAYaTrARC8ZuUVVSjdDbAyMSwK/view?usp=sharing)
 3. [JavaScript](https://drive.google.com/file/d/1Si62IJD22XxuGRNCOQCqNxuTGKjFOyQD/view?usp=sharing)
 4. [SQL](https://drive.google.com/file/d/1Si62IJD22XxuGRNCOQCqNxuTGKjFOyQD/view?usp=sharing)
