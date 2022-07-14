@@ -3,7 +3,17 @@
 ## 1. Cisco 2019-2022
 [NCSA CyberSecurity Essentials, NCSA Linux Essentials, NCSA Introduction to Networks v7, NCSA Cyber Ops Associate](https://drive.google.com/file/d/1V-KDbIMa4VPUi82S_zwnE-4iS6KZkJ73/view?usp=sharing)
 
-## 2. SoloLearn
+## 2. SoloLearn Programming Languages
+
+[C#](https://drive.google.com/file/d/1SegJbo3gCIdNdZveKOlJaXT_8YyaSIYK/view?usp=sharing)
+[C++](https://drive.google.com/file/d/1acbaoSQAYaTrARC8ZuUVVSjdDbAyMSwK/view?usp=sharing)
+[JavaScript](https://drive.google.com/file/d/1Si62IJD22XxuGRNCOQCqNxuTGKjFOyQD/view?usp=sharing)
+[SQL](https://drive.google.com/file/d/1Si62IJD22XxuGRNCOQCqNxuTGKjFOyQD/view?usp=sharing)
+[Ruby](https://drive.google.com/file/d/1JsywJmT9NSiSWFSHLGVr_kc9MoWPnEEH/view?usp=sharing)
+[JQuery](https://drive.google.com/file/d/1mO0ZztmYa2khZ_5Ssw-2kZq7A2Tvdsee/view?usp=sharing)
+[CSS](https://drive.google.com/file/d/1z42gJe1qC4Yjbv97G7khkGGeNdygTPW-/view?usp=sharing)
+[Swift 4](https://drive.google.com/file/d/1VYWWl3M6Xb_DIeMpw8TBsHIRbL1Ca7DC/view?usp=sharing)
+[]()
 
 ### Markdown
 
