@@ -1,6 +1,6 @@
 # Certificates Page
 ```
-Click on blue text to see an image of the certificate I have attained.
+_Click on blue text to see an image of the certificate I have attained._
 ```
 ## 1. Cisco 2019-2022
 [NCSA CyberSecurity Essentials, NCSA Linux Essentials, NCSA Introduction to Networks v7, NCSA Cyber Ops Associate](https://drive.google.com/file/d/1V-KDbIMa4VPUi82S_zwnE-4iS6KZkJ73/view?usp=sharing)
