@@ -1,6 +1,7 @@
-# Certificates Attained
-_Click on blue text to see an image of the certificate._
-
+# Certificates Page
+```
+Click on blue text to see an image of the certificate I have attained.
+```
 ## 1. Cisco 2019-2022
 [NCSA CyberSecurity Essentials, NCSA Linux Essentials, NCSA Introduction to Networks v7, NCSA Cyber Ops Associate](https://drive.google.com/file/d/1V-KDbIMa4VPUi82S_zwnE-4iS6KZkJ73/view?usp=sharing)
 
@@ -19,9 +20,7 @@ _Click on blue text to see an image of the certificate._
 11. [PHP](https://drive.google.com/file/d/1bBSYQ4IGyJyX7VkhWhidLABJqxjfsdJO/view?usp=sharing)<br />
 12. [Java](https://drive.google.com/file/d/1MzKGvE3yJSYfH3CqHavYOR466MNQJ6br/view?usp=sharing)
 
-```
-Copyrights Reserved by Aurangzaib Baloch
-```
+
 
 
 
